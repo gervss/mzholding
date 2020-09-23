@@ -544,7 +544,7 @@ ALL SECTIONS
 .blog-item-classic:nth-child(2n+2) .col-md-6:nth-child(2n+1){ float:right !important;}
 .blog-item-classic:first-child { padding-top:0;}
 .blog-item-classic  .blog-thumbnail img{ width:100%; margin-bottom:20px;}
-.blog-item-classic .blog-content{ text-align:center; padding:100px 0 50px;}
+.blog-item-classic .blog-content{ text-align:justify;}
 .blog-item-classic .blog-content .blog-date{ font-size:16px; color:#888888;font-family: "Open Sans",sans-serif; text-transform:uppercase;padding-bottom: 25px;}
 .blog-item-classic .blog-content h3, .blog-item-classic .blog-content h3 a{ color:#121212;}
 .blog-item-classic .blog-content a.btn-link{ border-bottom:2px solid transparent;font-family: "Open Sans",sans-serif; text-transform:uppercase;}
