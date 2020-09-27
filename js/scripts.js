@@ -227,6 +227,10 @@
 		------------------------------------------------------------------------ */
 		jQuery('.four-items-carousel').owlCarousel({
 			nav:true,
+			autoplay:true,
+			autoplayTimeout:1500,
+			autoplayHoverPause:true,
+			loop:true,
 			item:5,
 			navText:[ '', '' ],
 			responsive:{
@@ -234,10 +238,10 @@
 					items:1
 				},
 				768:{
-					items:2
+					items:1
 				},
 				979:{
-					items:3
+					items:2
 				},
 				1199:{
 					items:4
@@ -253,16 +257,19 @@
 		------------------------------------------------------------------------ */
 		jQuery('.three-items-carousel').owlCarousel({
 			nav:true,
+			autoplay:true,
+			autoplayTimeout:5000,
+			autoplayHoverPause:true,
 			navText:[ '', '' ],
 			responsive:{
 				0:{
-					items:2
+					items:3
 				},
 				768:{
-					items:2
+					items:3
 				},
 				979:{
-					items:2
+					items:3
 				},
 				1199:{
 					items:3

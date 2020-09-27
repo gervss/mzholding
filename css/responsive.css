@@ -120,7 +120,7 @@ input[type="text"], input[type="email"], input[type="number"], input[type="passw
 #footer .footer-top {padding: 20px 0;}
 .footer-bottom p{ text-align:center; padding:5px 0;}
 #footer .footer-bottom{ padding:10px 0;}
-#footer .newsletter-widget .social{ margin-top:30px;}
+#footer .newsletter-widget .social{ margin-top: -10px;}
 #header .logo{ max-width:150px;}
 #header .logo{ margin-top:14px !important;}
 .navbar-toggle { margin-top: 14px;}

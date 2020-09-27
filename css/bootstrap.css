@@ -3084,13 +3084,13 @@ input[type="submit"].btn{
 	padding:15px 42px 14px 60px;
 }
 .btn.btn-bordered-dark{
-	color:#121212;
-	border:2px solid #121212;
+	color:#ff5e14;
+	border:2px solid #173e5f;
 	padding:15px 42px 14px 42px;
 }
 .btn.btn-bordered-dark:hover{
 	color:#fff;
-	background:#121212;
+	background:#173e5f;
 }
 .btn.btn-bordered-white{
 	color:#fff;

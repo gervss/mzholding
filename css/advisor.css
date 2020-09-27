@@ -105,7 +105,7 @@ li.clr			{clear:both; float:none !important; width:auto !important; height:auto 
 .advisor-overlay{ position:absolute; left:0; right:0; top:0; bottom:0;}
 .heading h1,
 .heading h2		{ margin-bottom:10px}
-.img-shadow{-webkit-box-shadow: -10px 10px 0px 0px rgba(226,228,233,1);-moz-box-shadow: -10px 10px 0px 0px rgba(226,228,233,1);box-shadow: -10px 10px 0px 0px rgba(226,228,233,1);}
+.img-shadow{-webkit-box-shadow: -20px 20px 0px 0px rgba(226,228,233,1);-moz-box-shadow: -20px 20px 0px 0px rgba(226,228,233,1);box-shadow: -20px 20px 0px 0px rgba(226,228,233,1);}
 img{ max-width:100%;}
 .list-bullets li	{ list-style:none; position:relative; padding:5px 0 5px 17px;font-family: "Open Sans",sans-serif;}
 .list-bullets li:before{ position:absolute; left:0; top:15px; width:6px; height:6px; border-radius:100%; content:"";}
@@ -424,7 +424,7 @@ ALL SECTIONS
 .funfacts.two .counter{ padding-top:25px;}
 .funfacts.two .counter:after{ right: 50px;top: 55px; background-image:url(../images/slash2.png);}
 .funfacts.two .counter span, .funfacts.two .counter-details{ color:#fff;}
-.different-services{ background:url(../images/parallax/1.jpg) no-repeat center top; background-size:cover; height:642px; padding-top:260px; position:relative;}
+.different-services{ background:url(../images/parallax/1.jpg) no-repeat center top; background-size:cover; height:480px; padding-top:130px; position:relative;}
 .different-services .advisor-overlay{ background:rgba(0,0,0,0.80);}
 .services{ margin:-252px -15px 100px;}
 .service-box{ background:#fff; border-top:7px solid transparent; padding:38px 34px;}
@@ -801,7 +801,7 @@ FOOTER
 #footer .twitter-widget .tweet p span {display:block;font-size:14px;padding-top: 5px;}
 #footer .newsletter-widget{ padding:20px 29px; background:#e9e9e9;}
 #footer .newsletter-widget p{ font-size:16px; line-height:21px;margin: 0 0 20px;}
-#footer .newsletter-widget .social{ background:#e3e3e3; text-align:center; padding:17px; margin:50px -29px -20px;}
+#footer .newsletter-widget .social{ text-align:center; }
 #footer .footer-left {float: left;width: 65%;}
 #footer .footer-right {float: left;width: 35%;}
 #footer .footer-bottom{ padding:30px 0; background:#e9e9e9;}
@@ -977,9 +977,3 @@ FOOTER
 		float:left !important;
 	}
   }
-
-
-
-
-
-
