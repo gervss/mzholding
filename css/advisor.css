@@ -782,8 +782,8 @@ FOOTER
 #footer .footer-top p{ margin:8px 0;}
 #footer .footer-logo{ position:relative;}
 #footer .footer-logo:after{ width:1px; content:""; height:69px; background:#ababab; position:absolute; right:0; top:21px;}
-#footer .footer-address-widget{ padding:18px 32px; background:#fff;}
-#footer .footer-address-widget ul li{ list-style:none; float:left; font-size:20px; width:40%; position:relative;padding-left: 60px;}
+#footer .footer-address-widget{ padding:18px 32px; background:#fff; }
+#footer .footer-address-widget ul li{ list-style:none;  font-size:20px;  position:relative;padding-left: 60px;}
 #footer .footer-address-widget ul li:nth-child(2){ width:60%;}
 #footer .footer-address-widget ul li span, #footer .footer-address-widget ul li a{ display:block; font-size:16px;}
 #footer .footer-address-widget ul li i{ font-size: 40px;left: 0; position: absolute;top: 8px;}
@@ -804,7 +804,7 @@ FOOTER
 #footer .newsletter-widget .social{ text-align:center; }
 #footer .footer-left {float: left;width: 65%;}
 #footer .footer-right {float: left;width: 35%;}
-#footer .footer-bottom{ padding:30px 0; background:#e9e9e9;}
+#footer .footer-bottom{ padding:30px 0;  background:#e9e9e9;}
 #footer .footer-bottom p{ font-size:14px; margin:0; line-height:normal;}
 #footer.dark{ background-color:#323946; color:#edf0f5;}
 #footer.dark .footer-logo{ border-color:#999ca3;}
